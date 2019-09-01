@@ -5,3 +5,4 @@ Assignments/
 *.out
 *.xml
 *.gz
+*.DS_Store
